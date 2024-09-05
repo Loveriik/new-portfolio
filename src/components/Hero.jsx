@@ -11,10 +11,10 @@ export default function Hero() {
         </h1>
         <div className="mt-8">
           <a
-            href={`${import.meta.env.BASE_URL}cv.pdf`}
+            href={`${import.meta.env.BASE_URL}aleksandr-lavrov-cv.pdf`}
             target="_blank"
             rel="noopener noreferrer"
-            download="cv.pdf"
+            download="aleksandr-lavrov-cv.pdf"
             className="flex items-center rounded-xl bg-lime-300 p-2 px-3 font-sans font-medium text-black hover:bg-lime-400"
           >
             <span>Resume.pdf</span>
