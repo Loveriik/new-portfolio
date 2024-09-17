@@ -5,6 +5,7 @@ import project2 from "../assets/projects/quiz2.png";
 import project3 from "../assets/projects/wheel.png";
 import project4 from "../assets/projects/flipCards.png";
 import project5 from "../assets/projects/goose.png";
+import project6 from "../assets/projects/weather-widget.png";
 
 import javascript from "../assets/skills/javascript.svg";
 import css from "../assets/skills/css.svg";
@@ -117,6 +118,14 @@ export const PROJECTS = [
     description: "Modern and responsive landing",
     imgSrc: project5,
     link: "https://loveriik.github.io/Goose-landing/",
+  },
+  {
+    id: 6,
+    title: "Weather widget",
+    description:
+      "Modern weather widget. Implemented with Typescript, Tailwind CSS and OOP principles.",
+    imgSrc: project6,
+    link: "https://loveriik.github.io/Weather-widget-2.0/",
   },
 ];
 
