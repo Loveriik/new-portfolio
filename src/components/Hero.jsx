@@ -11,7 +11,7 @@ export default function Hero() {
         </h1>
         <div className="mt-8">
           <a
-            href={`${import.meta.env.BASE_URL}aleksandr-lavrov-cv.pdf`}
+            href={`${import.meta.env.BASE_URL}Aleksandr_Lavrov_CV.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             download="aleksandr-lavrov-cv.pdf"
