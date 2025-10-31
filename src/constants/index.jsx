@@ -134,6 +134,13 @@ export const ABOUT =
 
 export const EXPERIENCES = [
   {
+    company: "EPAM",
+    role: "Trainee",
+    year: "Apr 2025 - Ongoing",
+    description:
+      "Built and maintained scalable Test Automation Frameworks with WebdriverIO and Playwright using the Page Object Model. Developed end-to-end UI tests and performed REST API testing with Postman, Supertest, and GOT. Applied BDD with Cucumber, writing clear Gherkin scenarios. Integrated tests with Jenkins CI pipelines for automated runs and reporting. Participated in code reviews and Agile team practices, gaining hands-on QA automation experience.",
+  },
+  {
     company: "AndersenLab",
     role: "Internership",
     year: "Dec 23 - Jan 24",
@@ -143,9 +150,9 @@ export const EXPERIENCES = [
   {
     company: "Freelance",
     role: "Frontend Developer",
-    year: "Apr 23 - Oct 23",
+    year: "Dec 22 - Mar 24",
     description:
-      "Developed simple landing pages and single-page applications for the Georgian clients.",
+      "Worked independently on landing pages and single-page applications (SPAs), delivering responsive, user-friendly web interfaces for clients. Key responsibilities & achievements: Built responsive websites and SPAs using HTML, CSS, JavaScript, and React; Applied TypeScript and modern frontend frameworks to improve code quality and maintainability; Implemented interactive UI components, forms, and dynamic content; Collaborated with clients to understand requirements, propose solutions, and deliver projects on time; Used Git/GitHub for version control and project management",
   },
 ];
 
