@@ -84,7 +84,7 @@ export const PROJECTS = [
     id: 1,
     title: "E-commerce Website",
     description:
-      "A fully functional e-commerce shop page built with React and Redux.",
+      "A fully functional e-commerce shop page built with  React and Redux.",
     imgSrc: project1,
     link: "https://loveriik.github.io/cake-shop/",
   },
