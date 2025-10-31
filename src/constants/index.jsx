@@ -130,11 +130,11 @@ export const PROJECTS = [
 ];
 
 export const ABOUT =
-  "With two years of dedicated self-study and hands-on project experience, I have developed a solid foundation in front-end technologies and a strong passion for web development. My journey has equipped me with skills in HTML, CSS, JavaScript, TypeScript, Redux, and frameworks like React and Next.js. I specialize in creating dynamic and responsive web applications that provide seamless user experiences. I am passionate about continuous learning and keeping up-to-date with the latest industry trends, which allows me to implement modern practices and tools in my projects.";
+  "Motivated developer with 2.5 years of experience in JavaScript, React, and TypeScript, building SPAs and e-commerce applications. Skilled in test automation using WebdriverIO, Playwright, and Cypress, with experience in CI/CD and API testing. Passionate about clean code, high-quality software, and delivering excellent user experiences.";
 
 export const EXPERIENCES = [
   {
-    company: "EPAM",
+    company: "EPAM Automated Testing in JS Program",
     role: "Trainee",
     year: "Apr 2025 - Ongoing",
     description:
